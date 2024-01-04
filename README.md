@@ -1,4 +1,4 @@
-Projeto PrsolarOrdemServicos - Aprimoramento de Conceitos JPA
+## Projeto PrsolarOrdemServicos - Aprimoramento de Conceitos JPA
 Java Explorer: Paulo Santos
 
 O objetivo principal deste projeto é aprofundar os conceitos de JPA (Java Persistence API) em Java, substituindo o uso direto do JDBC (Java Database Connectivity). A persistência de dados no PostgreSQL continua a ser o foco, simulando a emissão de ordens de serviços para sistemas de energia solar fotovoltaica. O projeto utiliza operações CRUD (Create, Read, Update, Delete) em diferentes entidades, como Cliente, Equipamento, Estabelecimento e Serviço.
